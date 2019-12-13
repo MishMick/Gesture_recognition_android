@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Screen3"
+        android:textSize="36sp" />
+
+    <EditText
+        android:id="@+id/IPAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="IPv4 Address"
+        android:text="192.168.0.10" />
+
+    <EditText
+        android:id="@+id/Port"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Port"
+        android:text="5000" />
+
+    <Button
+        android:id="@+id/uploadButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upload" />
+
+    <Button
+        android:id="@+id/classifyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Classify" />
+
+    <EditText
+        android:id="@+id/num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="practice number"
+        android:text="10"/>
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="user name"
+        android:text="testo" />
+
+    <TextView
+        android:id="@+id/Result"
+        android:layout_width="match_parent"
+        android:layout_height="366dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/tos1Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="To Screen 1" />
+
+</LinearLayout>

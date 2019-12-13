@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GestureRecognition</string>
+    <string name="help_txt_screen1">Select a gesture</string>
+    <string name="download_URL">https://www.signingsavvy.com/media/mp4-ld/</string>
+    <string name="practiceBtn">Practice</string>
+    <string name="replayBtn">Replay</string>
+    <string-array name="gestures">
+        <item>gift:23/23781.mp4</item>
+        <item>car:26/26165.mp4</item>
+        <item>pay:23/23455.mp4</item>
+        <item>pet:14/14630.mp4</item>
+        <item>sell:9/9199.mp4</item>
+        <item>explain:22/22623.mp4</item>
+        <item>that:14/14366.mp4</item>
+        <item>book:14/14326.mp4</item>
+        <item>now:7/7688.mp4</item>
+        <item>work:8/8599.mp4</item>
+        <item>total:26/26467.mp4</item>
+        <item>trip:14/14645.mp4</item>
+        <item>future:14/14736.mp4</item>
+        <item>good:23/23043.mp4</item>
+        <item>thank you:21/21533.mp4</item>
+        <item>learn:21/21560.mp4</item>
+        <item>should:9/9563.mp4</item>
+        <item>like:6/6394.mp4</item>
+        <item>movie:8/8626.mp4</item>
+        <item>agent</item>
+    </string-array>
+</resources>
